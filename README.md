@@ -1,4 +1,6 @@
-# SOAR-EDR-Project
+# SOAR-EDR-Automation
+![SOAR drawio](https://github.com/user-attachments/assets/7d4df081-2e1a-478b-a6cb-bbb22defeec7)
+
 # Project Objective
 This project demonstrates the integration of Security Orchestration, Automation, and Response (SOAR) with Endpoint Detection and Response (EDR) to streamline security workflows and improve overall cybersecurity defenses. Leveraging LimaCharlie for EDR and Tines for SOAR, the project delivers real-time security insights and automates responses, particularly focusing on detecting and addressing credential access attacks using the LaZagne tool.
 
